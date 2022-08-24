@@ -5,6 +5,8 @@ install Haxe https://haxe.org/download/
 
 install Git https://git-scm.com/
 
+Open Cmd And Do
+
 haxelib install lime 7.9.0
 
 haxelib install openfl
