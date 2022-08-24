@@ -19,5 +19,6 @@ haxelib git hxvm-luajit https://github.com/nebulazorua/hxvm-luajit
 haxelib git faxe https://github.com/uhrobots/faxe
 haxelib git polymod https://github.com/MasterEric/polymod.git
 haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
+haxelib install linc_luajit
 
 And Then Open Cmd And Type Lime Build Html5 And There You Go
